@@ -62,6 +62,7 @@ tags: [Elasticsearch]
     }
 }
 ```
+
 >性能考虑（Performance consideration）
 >当你需要对搜索结果和聚合结果做不同的过滤时，你才应该使用 post_filter ， 有时用户会在普通搜索使用 post_filter 。不要这么做！ post_filter 的特性是在查询 之后 执行，任何过滤对性能带来的好处（比如缓存）都会完全失去。
 
