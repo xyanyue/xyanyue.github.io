@@ -5,7 +5,7 @@ date: 2018-10-24
 description:  Elasticsearch Dsl Aggs 学习# Add post description (optional)
 img: es-img.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Elasticsearch, Dsl,Aggs]
+tags: [Elasticsearch]
 ---
 最近需要使用ES，所有准备系统学习下。  
 这篇是ES 的Aggs，这是边整理边写的。So,有不好的地方只能请见谅了~。~
